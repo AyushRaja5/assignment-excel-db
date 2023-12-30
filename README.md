@@ -4,7 +4,7 @@ The frontend part will show like this when installed and uploaded data test samp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.8.
 
-## Development server
+## How to start Application on localhost : Once you clone this repo
 
 Run `npm install` to install the dependencies specified in my package.json file. It ensures that all the required packages are downloaded and ready to use.
 I have used only one dependency. {"xlsx": "^0.18.5"} so you ca run `npm i xlsx`.
